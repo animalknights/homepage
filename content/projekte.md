@@ -12,7 +12,6 @@ Franziska, war eine Tierschützerin, die ihr Leben den älteren und gebrechliche
 Franziska war ein Ausnahmemensch und diese Lücke wird keiner füllen können. Der Hof bleibt zwar bestehen, aber nicht mehr in dieser Form, wie ihn Franziska betrieben hatte. Wir bedanken uns herzlich für die Hilfe und Unterstützung, die sie uns immer wieder zu Teil werden ließ und hoffen, dass sie jetzt mit Ihren verstorbenen Lieblingen vereint ist. In aufrichtiger Liebe und Beileid für die Familie 
 
 R.I.P  Franziska Gregor 27.12.2021
-
 "Sende viel Liebe hinaus und du bekommst es zweifach zurück"
 
 
@@ -31,7 +30,6 @@ Sie können von hier aus alles unternehmen, was Sie sich für Ihren Urlaub vorst
 Wir freuen uns auf Ihr Kommen! 
 
 Weitere Informationen finden Sie unter:
-
 knappenhof.eu 
 
 
@@ -45,7 +43,6 @@ Oftmals nasse und schlammige Böden, vor allem im Winter Schnee und Eis als Unte
 Wir wollen die derzeitige Situation in den 4 Tierheimen vor Ort für die Hunde verbessern bzw. hilfsbedürftigen Menschen Sachspenden zukommen lassen. 
 
 Hier findest du uns auf Facebook:
-
 https://www.facebook.com/search/top/?q=freunde%20der%20tiere%20von%20baia%20mare
 
 Eine Fahrt nach Baia Mare/ Rumänien mit den gesammelten Sachspenden ist geplant. Deine Mithilfe kann auf die unterschiedlichste Art und Weise geschehen: 
@@ -57,7 +54,6 @@ Eine Fahrt nach Baia Mare/ Rumänien mit den gesammelten Sachspenden ist geplant
 * erzählte von uns und unserer Arbeit
 
 Spendenkonto :    IBAN : AT94 14000 8931 03 51 408 - Bawag
-
 Kennwort: Baia Mare 
 
 
