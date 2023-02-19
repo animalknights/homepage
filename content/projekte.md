@@ -11,7 +11,7 @@ Franziska, war eine Tierschützerin, die ihr Leben den älteren und gebrechliche
 
 Franziska war ein Ausnahmemensch und diese Lücke wird keiner füllen können. Der Hof bleibt zwar bestehen, aber nicht mehr in dieser Form, wie ihn Franziska betrieben hatte. Wir bedanken uns herzlich für die Hilfe und Unterstützung, die sie uns immer wieder zu Teil werden ließ und hoffen, dass sie jetzt mit Ihren verstorbenen Lieblingen vereint ist. In aufrichtiger Liebe und Beileid für die Familie 
 
-R.I.P  Franziska Gregor 27.12.2021 
+R.I.P  Franziska Gregor 27.12.2021
 "Sende viel Liebe hinaus und du bekommst es zweifach zurück"
 
 
@@ -42,7 +42,7 @@ Oftmals nasse und schlammige Böden, vor allem im Winter Schnee und Eis als Unte
 
 Wir wollen die derzeitige Situation in den 4 Tierheimen vor Ort für die Hunde verbessern bzw. hilfsbedürftigen Menschen Sachspenden zukommen lassen. 
 
-Hier findest du uns auf Facebook: 
+Hier findest du uns auf Facebook:
 https://www.facebook.com/search/top/?q=freunde%20der%20tiere%20von%20baia%20mare
 
 Eine Fahrt nach Baia Mare/ Rumänien mit den gesammelten Sachspenden ist geplant. Deine Mithilfe kann auf die unterschiedlichste Art und Weise geschehen: 
@@ -62,7 +62,7 @@ Kennwort: Baia Mare
 
 Pothole Rodeo 2019 12. - 21. Juli
 
-Von Graz aus geht es Richtung Ungarn, quer durch Rumänien zur Schwarzmeerküste in Bulgarien. Weiter geht es über Griechenland und den Balkanländern Mazedonien, Albanien und Montenegro nach Kroatien. Zu bewältigen sind Unmengen von Schlaglöcher und Schotterstraßen... :-)
+Von Graz aus geht es Richtung Ungarn, quer durch Rumänien zur Schwarzmeerküste in Bulgarien. Weiter geht es über Griechenland und den Balkanländern Mazedonien, Albanien und Montenegro nach Kroatien. Zu bewältigen sind Unmengen von Schlaglöcher und Schotterstraßen.
 
 UnserTeam Coon and Friends hat die Ralley unbeschadet überstanden und wir gratulieren zum 6. Platz!
 
