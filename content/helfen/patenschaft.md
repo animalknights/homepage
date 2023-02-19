@@ -56,7 +56,7 @@ JOHNNY wurde in Graz mit seinen 3 Geschwistern als Welpe entsorgt 😢 Wir haben
 
 Deswegen suchen wir Menschen mit großem Herz, die uns mit einer Futterpatenschaft für Johnny unterstützen können.
 
- 
+
 
 ## Tierpatenschaft
 
