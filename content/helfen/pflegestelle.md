@@ -15,45 +15,9 @@ Eine Pflegestelle bietet ein sicheres und artgerechtes Zuhause. Sie bringt genug
 ### Wie werde ich Pflegestelle?
 
 Wenn Du die oben genannten Fähigkeiten mitbringst und als Pflegestelle fungieren möchtest, melde Dich bei uns entweder per E-Mail: info@animalknights.at oder telefonisch unter: +43 680 2472368
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
 Ängstliche oder neue Hunde müssen ordnungsgemäß mit 2 Leinen gesichert werden. Es empfiehlt sich, diese Art der Sicherung, wie sie auf dem Bild zu sehen ist.
 
- 
-
 Dadurch kann man sich und dem Tier viel Kummer ersparen.
-
- 
-
- 
-
-TIERSCHUTZVEREIN
-
-ANIMAL KNIGHTS
-
- 
-
-Spendenkonto:
-
-AT94 1400 0893 1035 1408
-
-Telefon: + 43 (0) 680 24 72 368
-
-E-Mail: akgraz@gmx.at
-
-Impressum |
-Anmelden
 
