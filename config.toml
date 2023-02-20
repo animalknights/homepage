@@ -266,7 +266,12 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "Aus den Tiergeschichten"
-    subtitle = "--- bla fasel ---"
+    subtitle = "Ein Ritter musste kämpfen, verteidigen, treu & gehorsam sein  
+sowie Wehrlose & Schwache beschützen!  
+Deswegen haben wir uns für den Namen ANIMAL KNIGHTS entschieden! 
+Weil WIR um jede arme Tierseele kämpfen sowie 
+wehrlose & schwache Tiere beschützen.  
+Das ist unsere Aufgabe und unsere Lebensphilosophie!"
     hide_summary = false
 
 [params.footer.recent_posts]
