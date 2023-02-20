@@ -8,9 +8,7 @@ keywords = ["Animalknights","Projekte","Hundegnadenhof",""]
 ## SPENDEN
 
 Unsere Tierschutzprojekte werden über Spenden finanziert.
-Mit deiner Spende bauen wir Hundehütten, kastrieren Straßenhunde und bezahlen die
-
-Futter- und Tierarztkosten unserer Schützlinge.
+Mit deiner Spende bauen wir Hundehütten, kastrieren Straßenhunde und bezahlen die Futter- und Tierarztkosten unserer Schützlinge.
 Unser Spendenkonto: AT94 1400 0893 1035 1408
 
  
