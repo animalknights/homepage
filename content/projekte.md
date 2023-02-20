@@ -4,6 +4,25 @@ description = "Bei uns sind Zweibeiner und Vierbeiner eine Familie"
 keywords = ["Animalknights","Projekte","Hundegnadenhof",""]
 +++
 
+
+## SPENDEN
+
+Unsere Tierschutzprojekte werden über Spenden finanziert.
+Mit deiner Spende bauen wir Hundehütten, kastrieren Straßenhunde und bezahlen die
+
+Futter- und Tierarztkosten unserer Schützlinge.
+Unser Spendenkonto: AT94 1400 0893 1035 1408
+
+ 
+## SACHSPENDEN
+
+Unser Schützlinge freuen sich über jegliche Art von Sachspenden. Gerne nehmen wir Futter, Spielzeug, Decken und
+sämtliches Zubehör wie Leinen, Halsbänder, Geschirre und Hundebetten entgegen.
+
+Bitte melde dich telefonisch unter + 43 0680 24 72 368 oder per Email unter akgraz@gmx.at 
+
+
+
 Bei uns sind Zweibeiner und Vierbeiner eine Familie.
 ##  Villa Kunterbunt
 
