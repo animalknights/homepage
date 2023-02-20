@@ -7,7 +7,7 @@ banner = "img/banners/banner-4.jpg"
 authors = ["Karina"]
 +++
 
-GINI & CÄSAR
+## GINI & CÄSAR
 
 Gini wurde von einem Bettler abgenommen. Sie war sehr dürr, als sie zu mir kam und wahrscheinlich
 
