@@ -1,8 +1,8 @@
 +++
 title = "GINI & CÄSAR"
-date = "2021-08-01T21:29:20+02:00"
-tags = ["neues zuhause gefunden", "gerettet"]
-categories = ["neues zuhause gefunden", "gerettet"]
+date = "2016-08-01T21:29:20+02:00"
+tags = ["Tiergeschichten, gerettete Tiere"]
+categories = ["Tiergeschichten Gini Cäsar"]
 banner = "img/banners/banner-4.jpg"
 authors = ["Karina"]
 +++
