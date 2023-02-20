@@ -7,6 +7,8 @@ banner = "img/banners/banner-4.jpg"
 authors = ["Karina"]
 +++
 
+GINI & CÄSAR
+
 Gini wurde von einem Bettler abgenommen. Sie war sehr dürr, als sie zu mir kam und wahrscheinlich
 
 hatte man sie auch geschlagen, weil sie sich beim Bürsten vor Angst angemachte. Mit viel Geduld und Liebe besserte es sich zwar, aber es wird trotzdem für sie immer gegenwärtig sein. Man glaubt gar nicht, was Menschen für einen Schaden bei wehrlosen Tieren anrichten können.
