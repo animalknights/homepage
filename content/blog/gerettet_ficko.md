@@ -1,11 +1,13 @@
 +++
 title = "FICKO"
-date = "2021-08-01T21:29:20+02:00"
-tags = ["gerettet"]
-categories = ["neues zuhause gefunden", "gerettet"]
+date = "2017-08-01T21:29:20+02:00"
+tags = ["tiergeschichten, gerettete Tiere"]
+categories = ["Tiergeschichten"]
 banner = "img/banners/banner-4.jpg"
 authors = ["Karina"]
 +++
+
+## FICKO
 
 ist ein Hund, der einfach zurückgelassen wurde, Er wurde in einer Tötung in Ungarn geboren und als er ca. 2 Jahre alt war, wurde er von einem ungarischen Ehepaar adoptiert.
 
