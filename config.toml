@@ -270,7 +270,7 @@ pluralizelisttitles = false
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"
