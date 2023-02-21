@@ -15,6 +15,7 @@ cd Homepage
 git pull origin master
 
 .\hugo server
+firefox http://localhost:1313
 
 :GIT
 git add *
