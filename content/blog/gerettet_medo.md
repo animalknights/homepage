@@ -2,7 +2,7 @@
 title = "Medo"
 date = "2021-06-01T21:29:20+02:00"
 tags = ["Tiergeschichten, gerettete Tiere"]
-categories = ["Tiergeschichten Medo"]
+categories = ["Tiergeschichten"]
 banner = "img/blog/medo/Medo1.jpg"
 authors = ["Karina"]
 +++
