@@ -16,3 +16,4 @@ Erst als er verstarb, wurden die Tiere befreit.
 Katzen, Ponys, Meerschweinchen, Greifvögel, Affen etc... Man kann nur erahnen, was die armen Tiere mitmachen mussten. Von dieser Tierversuchsstätte wurden einige Katzen von unserem Verein tierärztlich versorgt.
 
 
+{{< gallery dir="/img/blog/pavarotti_jajay_riddick_schmusebaer/" hover-effect="none" caption-effect="fade" />}} {{< load-photoswipe >}}
