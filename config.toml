@@ -94,13 +94,13 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 2
     name = "GitHub"
-    url = "https://github.com/"
+    url = "https://github.com/animalknights"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/search/top/?q=animal%20knights%20-%20seite"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
@@ -250,10 +250,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Ein Ritter musste kämpfen, verteidigen und Wehrlose & Schwache beschützen"
+    subtitle = "Deswegen haben wir uns für den Namen ANIMAL KNIGHTS entschieden! Weil WIR um jede arme Tierseele kämpfen sowie wehrlose & schwache Tiere beschützen."
+    link_url = "/about"
+    link_text = "Mehr über uns..."
 
 [params.clients]
     enable = true
@@ -266,8 +266,8 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "Aus den Tiergeschichten"
-    subtitle = "Das ist unsere Aufgabe und unsere Lebensphilosophie"
-    hide_summary = false
+    subtitle = ""
+    hide_summary = true
 
 [params.footer.recent_posts]
     enable = false
