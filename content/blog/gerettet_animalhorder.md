@@ -3,7 +3,7 @@ title = "ANIMALHORDER"
 date = "2015-05-01T21:29:20+02:00"
 tags = ["Tiergeschichten, gerettete Tiere"]
 categories = ["Tiergeschichten Animalhorder"]
-banner = "img/banners/banner-4.jpg"
+banner = "img/blog/animalhorder/Animalhorder1.jpg"
 authors = ["Karina"]
 +++
 
