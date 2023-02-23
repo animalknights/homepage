@@ -171,7 +171,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Tierschutzverein Animalhnights. Ein Ritter musste kämpfen...</p>"
+    about_us = "<p>Tierschutzverein Animalhnights. <a href='/about'>Mehr...</a></p>"
     copyright = "CC BY 3.0 Animalknights.at"
 
     # Format dates with Go's time formatting

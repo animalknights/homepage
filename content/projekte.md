@@ -9,19 +9,17 @@ keywords = ["Animalknights","Projekte","Hundegnadenhof",""]
 
 Unsere Tierschutzprojekte werden über Spenden finanziert.
 Mit deiner Spende bauen wir Hundehütten, kastrieren Straßenhunde und bezahlen die Futter- und Tierarztkosten unserer Schützlinge.
-Unser Spendenkonto: AT94 1400 0893 1035 1408
+> **Spendenkonto:** AT94 1400 0893 1035 1408
 
- 
 ## SACHSPENDEN
 
 Unser Schützlinge freuen sich über jegliche Art von Sachspenden. Gerne nehmen wir Futter, Spielzeug, Decken und
 sämtliches Zubehör wie Leinen, Halsbänder, Geschirre und Hundebetten entgegen.
 
-Bitte melde dich telefonisch unter + 43 0680 24 72 368 oder per Email unter akgraz@gmx.at 
-
-
+Bitte melde dich telefonisch unter +43 680 2472368 oder per E-Mail unter info@animalknights.at 
 
 Bei uns sind Zweibeiner und Vierbeiner eine Familie.
+
 ##  Villa Kunterbunt
 
 Franziska, war eine Tierschützerin, die ihr Leben den älteren und gebrechlichen Tieren verschrieben hatte. Sie nahm Tiere auf, die niemand mehr haben wollte, weil sie alt, gebrechlich, krank oder leider unerwünscht waren. Wir unterstützten Franziska und ihre lieben Vierbeiner bei Renovierungen vom Haus. Auch Futter- und Tierarztkosten waren oft sehr belastend für die Tierschützerin. 
@@ -31,8 +29,6 @@ Franziska war ein Ausnahmemensch und diese Lücke wird keiner füllen können. D
 R.I.P  Franziska Gregor 27.12.2021
 
 "Sende viel Liebe hinaus und du bekommst es zweifach zurück"
-
-
 
 ## Herzlich willkommen im Weingut Knappenhof!
 
@@ -47,9 +43,9 @@ Genießen Sie in herrvorragenden Ruhelagen Ihre freien Tage in den liebevoll und
 Sie können von hier aus alles unternehmen, was Sie sich für Ihren Urlaub vorstellen: Wandern, Radfahren oder einfach die Natur und herrliche Ruhe in vollen Zügen genießen.
 Wir freuen uns auf Ihr Kommen! 
 
-Weitere Informationen finden Sie unter:
+Weitere Informationen:
 
-knappenhof.eu 
+https://knappenhof.eu 
 
 
 
@@ -61,9 +57,7 @@ Oftmals nasse und schlammige Böden, vor allem im Winter Schnee und Eis als Unte
 
 Wir wollen die derzeitige Situation in den 4 Tierheimen vor Ort für die Hunde verbessern bzw. hilfsbedürftigen Menschen Sachspenden zukommen lassen. 
 
-Hier findest du uns auf Facebook:
-
-https://www.facebook.com/search/top/?q=freunde%20der%20tiere%20von%20baia%20mare
+Du findest uns auf [Facebook](https://www.facebook.com/search/top/?q=freunde%20der%20tiere%20von%20baia%20mare)
 
 Eine Fahrt nach Baia Mare/ Rumänien mit den gesammelten Sachspenden ist geplant. Deine Mithilfe kann auf die unterschiedlichste Art und Weise geschehen: 
 
@@ -73,11 +67,7 @@ Eine Fahrt nach Baia Mare/ Rumänien mit den gesammelten Sachspenden ist geplant
 * Fix- oder Pflegestelle für ein Tier in Not werden
 * erzählte von uns und unserer Arbeit
 
-Spendenkonto :    IBAN : AT94 14000 8931 03 51 408 - Bawag
-
-Kennwort: Baia Mare 
-
-
+> **Spendenkonto:** IBAN: AT94 14000 8931 03 51 408 - Bawag Kennwort: Baia Mare 
 
 ##  Pothole Rodeo Team "Coon and Friends reloaded"
 

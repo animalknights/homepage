@@ -8,11 +8,11 @@ keywords = ["Animalknights","Shop","Einkaufen",""]
 
 ### Amazon
 
-Gehe auf den Link        https://smile.amazon.de         oder drück auf den violetten Button:
-https://smile.amazon.de/?ref_=smi_ext_ch_94-63-51535_dl
+Gehe auf den Link [https://smile.amazon.de](https://smile.amazon.de/?ref_=smi_ext_ch_94-63-51535_dl)
+
 
 Melde dich mit deinem Namen und deinem Passwort an und gehe auf
-" Mein Konto" und dann auf "Mein Amazon-Smile" 
+"Mein Konto" und dann auf "Mein Amazon-Smile" 
 
 Wähle bei der aktuellen Organisation
 ANIMAL KNIGHTS GRAZ  aus und klicke auf speichern. 
