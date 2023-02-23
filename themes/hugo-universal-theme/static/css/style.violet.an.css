@@ -1676,9 +1676,9 @@ fieldset[disabled] .btn-template-primary.active {
 }
 /* universal box */
 .box {
-  background: #fff;
+  background: #ffd6ff;
   margin: 0 0 30px;
-  border: solid 1px #ccc;
+  border: solid 0px #ccc;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1782,6 +1782,9 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .bar.background-white {
   background: #fff;
+}
+.bar.background-an {
+  background: #ffd6ff;
 }
 .bar.background-image-fixed-1 {
   background: url('../img/fixed-background-1.jpg') center top no-repeat;
